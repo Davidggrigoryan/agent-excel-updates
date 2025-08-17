@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "zip_url": "https://github.com/ВАШ_ЛОГИН/agent-excel-updates/raw/main/agent-excel-1.0.1.zip",
+  "zip_url": "https://github.com/Davidggrigoryan/agent-excel-updates/raw/main/agent-excel-1.0.1.zip",
   "sha256": "651B02100B9B492FF1F2FAD90A76731883FA0AF9204B998647752D929A55BFD2",
   "notes": "Первый релиз: исправления GUI и кнопка обновления."
 }
